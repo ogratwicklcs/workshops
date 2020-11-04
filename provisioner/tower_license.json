@@ -1,0 +1,11 @@
+{
+    "company_name": "Lighthouse Internal", 
+    "contact_email": "anaiken@redhat.com", 
+    "contact_name": "Oleg Gartwick", 
+    "hostname": "ca9b3eaca0a34b209fe2e4202448aa38", 
+    "instance_count": 10, 
+    "license_date": 2133885596, 
+    "license_key": "3a582448d060898df65e8324bf947fa3e50dd1771f600b3111e625bd10f144d7", 
+    "license_type": "basic", 
+    "subscription_name": "Red Hat Ansible Tower, Self-Support (10 Managed Nodes)"
+}
